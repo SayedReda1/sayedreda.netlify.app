@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+ruby "3.4.3"  # Specify Ruby version to match html-proofer requirements
+
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
 gem "html-proofer", "~> 5.0", group: :test
