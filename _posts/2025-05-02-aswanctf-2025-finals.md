@@ -295,6 +295,6 @@ io.interactive()
 > _YAO{Y0u_Ar3_S0_Lucky_GGWp}_
 
 ## Download Challenges
-You can try pwning the challenges share ideas with me:
+You can try pwning the challenges and share ideas with me 🫴:
 - [Baby Blue](/assets/download/aswanctf2025/baby_blue_player.zip)
 - [Lucky](/assets/download/aswanctf2025/Lucky_Player.zip)
