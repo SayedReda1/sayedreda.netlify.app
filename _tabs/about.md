@@ -9,14 +9,14 @@ order: 4
 I'm **Sayed Reda** — but you might know me as **0xS4Y3D**.
 
 🎓 I'm a Computer Science student at the **Faculty of Computers and Artificial Intelligence, Cairo University**.  
-🕵️‍♂️ I'm also a **Penetration Tester** and an active **Bug Bounty Hunter**.
+🕵️‍♂️ I'm also a **Jr. Penetration Tester** and an active **Bug Bounty Hunter**.
 
 ---
 
 ## 🔥 What Drives Me
 
-I live and breathe **Offensive Security**.  
-From diving into CTFs to digging through real-world targets, I'm all about breaking things (ethically) to make the digital world safer.
+I'm deeply interested in **Offensive Security**.  
+From diving into CTFs to digging through real-world targets participating in bug bounty programs.
 
 This blog is my corner of the internet where I’ll be:
 
